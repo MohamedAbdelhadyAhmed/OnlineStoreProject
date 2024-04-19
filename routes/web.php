@@ -7,4 +7,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+// DashboardRoutes
 Route::get('/dashboard', [DashboardController::class,'index']);

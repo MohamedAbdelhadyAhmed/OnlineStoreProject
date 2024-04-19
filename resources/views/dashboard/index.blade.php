@@ -2,10 +2,7 @@
  @section('title', 'Starter Page')
  @section('content')
      {{-- @yield("content") --}}
-
      <!-- Content Wrapper. Contains page content -->
-
-
      <!-- Main content -->
 
      <div class="row">
